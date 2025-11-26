@@ -1,0 +1,1091 @@
+{
+  "README": "🚨 CONTRIBUTORS: This is the main file for adding verified DPRK accounts! 🚨",
+  "HOW_TO_CONTRIBUTE": {
+    "step_1": "Find a suspected DPRK account on social media",
+    "step_2": "Get evidence (screenshot, post link, analysis thread)",
+    "step_3": "Add the account to the 'accounts' array below",
+    "step_4": "Include the evidence_source URL",
+    "step_5": "Submit a pull request to help the community!"
+  },
+  "EXAMPLE_ENTRY": {
+    "handle": "example_account",
+    "platform": "x",
+    "full_url": "https://x.com/example_account",
+    "evidence_source": "https://x.com/researcher/status/123456789",
+    "verification_status": "community_verified",
+    "date_identified": "2025-08-01"
+  },
+  "note": "Verified North Korean accounts identified through community research and analysis",
+  "last_updated": "2025-08-01",
+  "source": "Community-verified DPRK social media accounts with evidence sources",
+  "verification_criteria": [
+    "Identified through credible social media analysis",
+    "Cross-referenced with multiple sources",
+    "Evidence of DPRK-related activity patterns",
+    "Community-verified through public posts"
+  ],
+  "accounts": [
+    {
+      "handle": "steven228312",
+      "platform": "x",
+      "full_url": "https://x.com/steven228312",
+      "evidence_source": "https://x.com/browsercookies/status/1950686957748834390",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "rarosem",
+      "platform": "x", 
+      "full_url": "https://x.com/rarosem/",
+      "evidence_source": "https://x.com/KawaiiJongUwUn/status/1947440228798517421",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "OVB_Coder",
+      "platform": "x",
+      "full_url": "https://x.com/OVB_Coder",
+      "evidence_source": "https://x.com/aptwhatnow/status/1945225793761628641",
+      "verification_status": "community_verified", 
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "EcomdevStar",
+      "platform": "x",
+      "full_url": "https://x.com/EcomdevStar",
+      "evidence_source": "https://x.com/browsercookies/status/1947855992513044595",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "EgiShou",
+      "platform": "x",
+      "full_url": "https://x.com/EgiShou",
+      "evidence_source": "https://x.com/Narcass3/status/1940467637278200208",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "0xTan1319",
+      "platform": "x",
+      "full_url": "https://x.com/0xTan1319",
+      "evidence_source": "https://x.com/browsercookies/status/1938123022650716257",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "memetan000",
+      "platform": "x",
+      "full_url": "https://x.com/memetan000",
+      "evidence_source": "https://x.com/browsercookies/status/1938124236306190479",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "0xNickLFranklin",
+      "platform": "x",
+      "full_url": "https://x.com/0xNickLFranklin",
+      "evidence_source": "https://x.com/tanuki42_/status/1905003045433290940",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "jeremymichael79",
+      "platform": "x",
+      "full_url": "https://x.com/jeremymichael79",
+      "evidence_source": "https://x.com/Narcass3/status/1921804357462376623",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Hakeohiratani",
+      "platform": "x",
+      "full_url": "https://x.com/Hakeohiratani",
+      "evidence_source": "https://x.com/Narcass3/status/1921804357462376623",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "xCristian88",
+      "platform": "x",
+      "full_url": "https://x.com/xCristian88",
+      "evidence_source": "https://x.com/blackbigswan/status/1940559211873599649",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "shinytechapes",
+      "platform": "x",
+      "full_url": "https://x.com/shinytechapes",
+      "evidence_source": "https://x.com/blackbigswan/status/1938218912568496466",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "hexnome",
+      "platform": "x",
+      "full_url": "https://x.com/hexnome",
+      "evidence_source": "https://x.com/blackbigswan/status/1938218905278853473",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "chain_sats",
+      "platform": "x",
+      "full_url": "https://x.com/chain_sats",
+      "evidence_source": "https://x.com/blackbigswan/status/1938218908458303884",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "no1ceoinasia",
+      "platform": "x",
+      "full_url": "https://x.com/no1ceoinasia",
+      "evidence_source": "https://x.com/browsercookies/status/1943849367741641124",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "hashi_7412",
+      "platform": "x",
+      "full_url": "https://x.com/hashi_7412",
+      "evidence_source": "https://x.com/browsercookies/status/1939140830327165171",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "KenzoSuzuki",
+      "platform": "x",
+      "full_url": "https://x.com/KenzoSuzuki",
+      "evidence_source": "https://x.com/browsercookies/status/1939140830327165171",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "haruto918miura",
+      "platform": "x",
+      "full_url": "https://x.com/haruto918miura",
+      "evidence_source": "https://x.com/browsercookies/status/1932932373609586853",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "j7771122",
+      "platform": "x",
+      "full_url": "https://x.com/j7771122",
+      "evidence_source": "https://x.com/browsercookies/status/1932956578090770818",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "devking0718",
+      "platform": "x",
+      "full_url": "https://x.com/devking0718",
+      "evidence_source": "https://x.com/browsercookies/status/1932632035698618626",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "kilros817",
+      "platform": "x",
+      "full_url": "https://x.com/kilros817",
+      "evidence_source": "https://x.com/browsercookies/status/1931750645423657041",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "smiley_0831",
+      "platform": "x",
+      "full_url": "https://x.com/smiley_0831",
+      "evidence_source": "https://x.com/browsercookies/status/1930804977091711320",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "KevinDev888",
+      "platform": "x",
+      "full_url": "https://x.com/KevinDev888",
+      "evidence_source": "https://x.com/browsercookies/status/1930804977091711320",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "army_boris888",
+      "platform": "x",
+      "full_url": "https://x.com/army_boris888",
+      "evidence_source": "https://x.com/browsercookies/status/1930804977091711320",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Slaveprotein",
+      "platform": "x",
+      "full_url": "https://x.com/Slaveprotein",
+      "evidence_source": "https://x.com/browsercookies/status/1930804977091711320",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "WEARA17",
+      "platform": "x",
+      "full_url": "https://x.com/WEARA17",
+      "evidence_source": "https://x.com/browsercookies/status/1930804977091711320",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "WayneSonter",
+      "platform": "x",
+      "full_url": "https://x.com/WayneSonter",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "uculaunchpad",
+      "platform": "x",
+      "full_url": "https://x.com/uculaunchpad",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "suneetchopra2",
+      "platform": "x",
+      "full_url": "https://x.com/suneetchopra2",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "SMS_ZELENI",
+      "platform": "x",
+      "full_url": "https://x.com/SMS_ZELENI",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Sitienestiempo",
+      "platform": "x",
+      "full_url": "https://x.com/Sitienestiempo",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "signovitalgye",
+      "platform": "x",
+      "full_url": "https://x.com/signovitalgye",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Samchiawc",
+      "platform": "x",
+      "full_url": "https://x.com/Samchiawc",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "RReidFU",
+      "platform": "x",
+      "full_url": "https://x.com/RReidFU",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Richard2052",
+      "platform": "x",
+      "full_url": "https://x.com/Richard2052",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "PeterWo40227973",
+      "platform": "x",
+      "full_url": "https://x.com/PeterWo40227973",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "MichaelGBach",
+      "platform": "x",
+      "full_url": "https://x.com/MichaelGBach",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "kilusangmayouno",
+      "platform": "x",
+      "full_url": "https://x.com/kilusangmayouno",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "JulioYaoV",
+      "platform": "x",
+      "full_url": "https://x.com/JulioYaoV",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "ijb1977",
+      "platform": "x",
+      "full_url": "https://x.com/ijb1977",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "EuropaViktoria",
+      "platform": "x",
+      "full_url": "https://x.com/EuropaViktoria",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "chrapunik",
+      "platform": "x",
+      "full_url": "https://x.com/chrapunik",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "BossuytJozef",
+      "platform": "x",
+      "full_url": "https://x.com/BossuytJozef",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "BonakeleBmajuba",
+      "platform": "x",
+      "full_url": "https://x.com/BonakeleBmajuba",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "AndersK65",
+      "platform": "x",
+      "full_url": "https://x.com/AndersK65",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "AdnanAkf99267",
+      "platform": "x",
+      "full_url": "https://x.com/AdnanAkf99267",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "acilino_ribeiro",
+      "platform": "x",
+      "full_url": "https://x.com/acilino_ribeiro",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "zegil",
+      "platform": "x",
+      "full_url": "https://x.com/zegil",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "zaherkhatib6",
+      "platform": "x",
+      "full_url": "https://x.com/zaherkhatib6",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "YuriCastroR",
+      "platform": "x",
+      "full_url": "https://x.com/YuriCastroR",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "VatanParty_INT",
+      "platform": "x",
+      "full_url": "https://x.com/VatanParty_INT",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "UMApilipinas",
+      "platform": "x",
+      "full_url": "https://x.com/UMApilipinas",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "trotskysc",
+      "platform": "x",
+      "full_url": "https://x.com/trotskysc",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "stuartvogel8",
+      "platform": "x",
+      "full_url": "https://x.com/stuartvogel8",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Skmaish",
+      "platform": "x",
+      "full_url": "https://x.com/Skmaish",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "SijifosGu",
+      "platform": "x",
+      "full_url": "https://x.com/SijifosGu",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "shrekkiej",
+      "platform": "x",
+      "full_url": "https://x.com/shrekkiej",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "SALAHADDEN7",
+      "platform": "x",
+      "full_url": "https://x.com/SALAHADDEN7",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "ritarojas0422",
+      "platform": "x",
+      "full_url": "https://x.com/ritarojas0422",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "redallover99",
+      "platform": "x",
+      "full_url": "https://x.com/redallover99",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "rajan1735583",
+      "platform": "x",
+      "full_url": "https://x.com/rajan1735583",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "przemyslawworek",
+      "platform": "x",
+      "full_url": "https://x.com/przemyslawworek",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "ProfHessou",
+      "platform": "x",
+      "full_url": "https://x.com/ProfHessou",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "OncuGenclik",
+      "platform": "x",
+      "full_url": "https://x.com/OncuGenclik",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "nuricarneroroqu",
+      "platform": "x",
+      "full_url": "https://x.com/nuricarneroroqu",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "mrozek_ukasz",
+      "platform": "x",
+      "full_url": "https://x.com/mrozek_ukasz",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Mdharunapex",
+      "platform": "x",
+      "full_url": "https://x.com/Mdharunapex",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "luisemilioveint",
+      "platform": "x",
+      "full_url": "https://x.com/luisemilioveint",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "LLuka99236",
+      "platform": "x",
+      "full_url": "https://x.com/LLuka99236",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "KSkij66172",
+      "platform": "x",
+      "full_url": "https://x.com/KSkij66172",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "kprf_ul",
+      "platform": "x",
+      "full_url": "https://x.com/kprf_ul",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "konokim1",
+      "platform": "x",
+      "full_url": "https://x.com/konokim1",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "kfa_sweden",
+      "platform": "x",
+      "full_url": "https://x.com/kfa_sweden",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "KFA_GERMANY",
+      "platform": "x",
+      "full_url": "https://x.com/KFA_GERMANY",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "KamelDouha",
+      "platform": "x",
+      "full_url": "https://x.com/KamelDouha",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "JustineKyeyune",
+      "platform": "x",
+      "full_url": "https://x.com/JustineKyeyune",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "juche0071",
+      "platform": "x",
+      "full_url": "https://x.com/juche0071",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "jfrantv",
+      "platform": "x",
+      "full_url": "https://x.com/jfrantv",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "javierheraud24",
+      "platform": "x",
+      "full_url": "https://x.com/javierheraud24",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "JACH47",
+      "platform": "x",
+      "full_url": "https://x.com/JACH47",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Interflieger",
+      "platform": "x",
+      "full_url": "https://x.com/Interflieger",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "HEADPhil_health",
+      "platform": "x",
+      "full_url": "https://x.com/HEADPhil_health",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "gelholton",
+      "platform": "x",
+      "full_url": "https://x.com/gelholton",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "FinlandKfa",
+      "platform": "x",
+      "full_url": "https://x.com/FinlandKfa",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "felixjesusve",
+      "platform": "x",
+      "full_url": "https://x.com/felixjesusve",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "EthiopiaKfa",
+      "platform": "x",
+      "full_url": "https://x.com/EthiopiaKfa",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "eco_hornet",
+      "platform": "x",
+      "full_url": "https://x.com/eco_hornet",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Dtrivero",
+      "platform": "x",
+      "full_url": "https://x.com/Dtrivero",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "DprkNz",
+      "platform": "x",
+      "full_url": "https://x.com/DprkNz",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "DPRK_CAODEBENOS",
+      "platform": "x",
+      "full_url": "https://x.com/DPRK_CAODEBENOS",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "doernercharles",
+      "platform": "x",
+      "full_url": "https://x.com/doernercharles",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "dcalivee",
+      "platform": "x",
+      "full_url": "https://x.com/dcalivee",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "ChristerLundg10",
+      "platform": "x",
+      "full_url": "https://x.com/ChristerLundg10",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "ChiragKunwar342",
+      "platform": "x",
+      "full_url": "https://x.com/ChiragKunwar342",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "CarlosPereiraPa",
+      "platform": "x",
+      "full_url": "https://x.com/CarlosPereiraPa",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "CamposRosanita",
+      "platform": "x",
+      "full_url": "https://x.com/CamposRosanita",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "auroberan",
+      "platform": "x",
+      "full_url": "https://x.com/auroberan",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Alexand80621725",
+      "platform": "x",
+      "full_url": "https://x.com/Alexand80621725",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "Aleksandria1",
+      "platform": "x",
+      "full_url": "https://x.com/Aleksandria1",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "tanyvaler",
+      "platform": "x",
+      "full_url": "https://x.com/tanyvaler",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "bobbyrossbostic",
+      "platform": "x",
+      "full_url": "https://x.com/bobbyrossbostic",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "trevorspencer",
+      "platform": "x",
+      "full_url": "https://x.com/trevorspencer",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "martinloetscher",
+      "platform": "x",
+      "full_url": "https://x.com/martinloetscher",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "dagnorum",
+      "platform": "x",
+      "full_url": "https://x.com/dagnorum",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "mattrobson",
+      "platform": "x",
+      "full_url": "https://x.com/mattrobson",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "nikolaiaamand",
+      "platform": "x",
+      "full_url": "https://x.com/nikolaiaamand",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "dahlaniskan",
+      "platform": "x",
+      "full_url": "https://x.com/dahlaniskan",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "rayferguson",
+      "platform": "x",
+      "full_url": "https://x.com/rayferguson",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "anneconlon",
+      "platform": "x",
+      "full_url": "https://x.com/anneconlon",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "juhakieksi",
+      "platform": "x",
+      "full_url": "https://x.com/juhakieksi",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "madhavnepalga",
+      "platform": "x",
+      "full_url": "https://x.com/madhavnepalga",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "chbpereira",
+      "platform": "x",
+      "full_url": "https://x.com/chbpereira",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "prpanta",
+      "platform": "x",
+      "full_url": "https://x.com/prpanta",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "norbin2008",
+      "platform": "x",
+      "full_url": "https://x.com/norbin2008",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "kfabulgariaofficial",
+      "platform": "x",
+      "full_url": "https://x.com/kfabulgariaofficial",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "ioancampean",
+      "platform": "x",
+      "full_url": "https://x.com/ioancampean",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "sergeygribakov",
+      "platform": "x",
+      "full_url": "https://x.com/sergeygribakov",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "kfabrasil",
+      "platform": "x",
+      "full_url": "https://x.com/kfabrasil",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "estuardomartinez",
+      "platform": "x",
+      "full_url": "https://x.com/estuardomartinez",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "neliasancho",
+      "platform": "x",
+      "full_url": "https://x.com/neliasancho",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "partidopsr",
+      "platform": "x",
+      "full_url": "https://x.com/partidopsr",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "saispdj",
+      "platform": "x",
+      "full_url": "https://x.com/saispdj",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "lohekeleafrica",
+      "platform": "x",
+      "full_url": "https://x.com/lohekeleafrica",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "katycampos",
+      "platform": "x",
+      "full_url": "https://x.com/katycampos",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "grahamkelly101",
+      "platform": "x",
+      "full_url": "https://x.com/grahamkelly101",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "rasnzwlg",
+      "platform": "x",
+      "full_url": "https://x.com/rasnzwlg",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "heergincan",
+      "platform": "x",
+      "full_url": "https://x.com/heergincan",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "allanmilnes",
+      "platform": "x",
+      "full_url": "https://x.com/allanmilnes",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "billford37",
+      "platform": "x",
+      "full_url": "https://x.com/billford37",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "presidentacap",
+      "platform": "x",
+      "full_url": "https://x.com/presidentacap",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "sammylanden",
+      "platform": "x",
+      "full_url": "https://x.com/sammylanden",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "hiranyashrestha",
+      "platform": "x",
+      "full_url": "https://x.com/hiranyashrestha",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01"
+    }
+  ],
+  "statistics": {
+    "total_accounts": 132,
+    "unique_evidence_sources": 16,
+    "platforms_covered": ["x"],
+    "verification_methods": ["community_analysis", "social_media_investigation"]
+  }
+}
