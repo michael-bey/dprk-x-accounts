@@ -35,7 +35,7 @@
     },
     {
       "handle": "rarosem",
-      "platform": "x", 
+      "platform": "x",
       "full_url": "https://x.com/rarosem/",
       "evidence_source": "https://x.com/KawaiiJongUwUn/status/1947440228798517421",
       "verification_status": "community_verified",
@@ -46,7 +46,7 @@
       "platform": "x",
       "full_url": "https://x.com/OVB_Coder",
       "evidence_source": "https://x.com/aptwhatnow/status/1945225793761628641",
-      "verification_status": "community_verified", 
+      "verification_status": "community_verified",
       "date_identified": "2025-08-01"
     },
     {
@@ -1080,12 +1080,321 @@
       "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
       "verification_status": "community_verified",
       "date_identified": "2025-08-01"
+    },
+    {
+      "handle": "0xm00neth",
+      "platform": "x",
+      "full_url": "https://x.com/0xm00neth",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "adchy2000",
+      "platform": "x",
+      "full_url": "https://x.com/adchy2000",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "AlexHong953",
+      "platform": "x",
+      "full_url": "https://x.com/AlexHong953",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "andyhoglet",
+      "platform": "x",
+      "full_url": "https://x.com/andyhoglet",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "blockchain41673",
+      "platform": "x",
+      "full_url": "https://x.com/blockchain41673",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "blue32captain",
+      "platform": "x",
+      "full_url": "https://x.com/blue32captain",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "Brysky456",
+      "platform": "x",
+      "full_url": "https://x.com/Brysky456",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "bullishgopher",
+      "platform": "x",
+      "full_url": "https://x.com/bullishgopher",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "chaisomsri96",
+      "platform": "x",
+      "full_url": "https://x.com/chaisomsri96",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "CryptoFist",
+      "platform": "x",
+      "full_url": "https://x.com/CryptoFist",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "cryptopunkclan",
+      "platform": "x",
+      "full_url": "https://x.com/cryptopunkclan",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "davdpark1026",
+      "platform": "x",
+      "full_url": "https://x.com/davdpark1026",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "DerekMillerDev",
+      "platform": "x",
+      "full_url": "https://x.com/DerekMillerDev",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "euj1n0ng",
+      "platform": "x",
+      "full_url": "https://x.com/euj1n0ng",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "ggsofter",
+      "platform": "x",
+      "full_url": "https://x.com/ggsofter",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "gru1125",
+      "platform": "x",
+      "full_url": "https://x.com/gru1125",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "haodev007",
+      "platform": "x",
+      "full_url": "https://x.com/haodev007",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "hapetherw",
+      "platform": "x",
+      "full_url": "https://x.com/hapetherw",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "ivanche90705289",
+      "platform": "x",
+      "full_url": "https://x.com/ivanche90705289",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "jaclindev99",
+      "platform": "x",
+      "full_url": "https://x.com/jaclindev99",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "kAsky53",
+      "platform": "x",
+      "full_url": "https://x.com/kAsky53",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "kevin83191687",
+      "platform": "x",
+      "full_url": "https://x.com/kevin83191687",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "kn_amm51",
+      "platform": "x",
+      "full_url": "https://x.com/kn_amm51",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "KoppAnatoli",
+      "platform": "x",
+      "full_url": "https://x.com/KoppAnatoli",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "lee_chienhui",
+      "platform": "x",
+      "full_url": "https://x.com/lee_chienhui",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "m_polartar",
+      "platform": "x",
+      "full_url": "https://x.com/m_polartar",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "MentholMen47387",
+      "platform": "x",
+      "full_url": "https://x.com/MentholMen47387",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "mrcontract17877",
+      "platform": "x",
+      "full_url": "https://x.com/mrcontract17877",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "nonfungiblejc",
+      "platform": "x",
+      "full_url": "https://x.com/nonfungiblejc",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "PinnacleFTSO",
+      "platform": "x",
+      "full_url": "https://x.com/PinnacleFTSO",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "ponyjackalx",
+      "platform": "x",
+      "full_url": "https://x.com/ponyjackalx",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "sether1009",
+      "platform": "x",
+      "full_url": "https://x.com/sether1009",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "SilkenCore59010",
+      "platform": "x",
+      "full_url": "https://x.com/SilkenCore59010",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "StevenJ12156614",
+      "platform": "x",
+      "full_url": "https://x.com/StevenJ12156614",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "TickyCrypto",
+      "platform": "x",
+      "full_url": "https://x.com/TickyCrypto",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "woof_decentra",
+      "platform": "x",
+      "full_url": "https://x.com/woof_decentra",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "zeroxjoe",
+      "platform": "x",
+      "full_url": "https://x.com/zeroxjoe",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
+    },
+    {
+      "handle": "zhExcal",
+      "platform": "x",
+      "full_url": "https://x.com/zhExcal",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28"
     }
   ],
   "statistics": {
-    "total_accounts": 132,
+    "total_accounts": 170,
     "unique_evidence_sources": 16,
-    "platforms_covered": ["x"],
-    "verification_methods": ["community_analysis", "social_media_investigation"]
+    "platforms_covered": [
+      "x"
+    ],
+    "verification_methods": [
+      "community_analysis",
+      "social_media_investigation"
+    ]
   }
 }
