@@ -19,6 +19,10 @@ The data is stored in `accounts.json`. Each entry represents a single account:
 }
 ```
 
+`statistics.total_accounts` counts entries in the `accounts` array only.
+
+Accounts that are no longer on X are moved from `accounts` to `archived_accounts`. Archived entries keep the fields above and add `inactive_reason` (`not_found` or `suspended`) and `inactive_as_of`. They stay in this file so the tracking record is kept, and they are not part of the active list.
+
 ## Contributing
 We welcome contributions from the OSINT community!
 

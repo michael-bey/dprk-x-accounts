@@ -16,7 +16,7 @@
     "date_identified": "2025-08-01"
   },
   "note": "Verified North Korean accounts identified through community research and analysis",
-  "last_updated": "2025-08-01",
+  "last_updated": "2026-11-03",
   "source": "Community-verified DPRK social media accounts with evidence sources",
   "verification_criteria": [
     "Identified through credible social media analysis",
@@ -26,26 +26,10 @@
   ],
   "accounts": [
     {
-      "handle": "steven228312",
-      "platform": "x",
-      "full_url": "https://x.com/steven228312",
-      "evidence_source": "https://x.com/browsercookies/status/1950686957748834390",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
       "handle": "rarosem",
       "platform": "x",
       "full_url": "https://x.com/rarosem/",
       "evidence_source": "https://x.com/KawaiiJongUwUn/status/1947440228798517421",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "OVB_Coder",
-      "platform": "x",
-      "full_url": "https://x.com/OVB_Coder",
-      "evidence_source": "https://x.com/aptwhatnow/status/1945225793761628641",
       "verification_status": "community_verified",
       "date_identified": "2025-08-01"
     },
@@ -66,26 +50,10 @@
       "date_identified": "2025-08-01"
     },
     {
-      "handle": "0xTan1319",
-      "platform": "x",
-      "full_url": "https://x.com/0xTan1319",
-      "evidence_source": "https://x.com/browsercookies/status/1938123022650716257",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
       "handle": "memetan000",
       "platform": "x",
       "full_url": "https://x.com/memetan000",
       "evidence_source": "https://x.com/browsercookies/status/1938124236306190479",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "0xNickLFranklin",
-      "platform": "x",
-      "full_url": "https://x.com/0xNickLFranklin",
-      "evidence_source": "https://x.com/tanuki42_/status/1905003045433290940",
       "verification_status": "community_verified",
       "date_identified": "2025-08-01"
     },
@@ -102,14 +70,6 @@
       "platform": "x",
       "full_url": "https://x.com/Hakeohiratani",
       "evidence_source": "https://x.com/Narcass3/status/1921804357462376623",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "xCristian88",
-      "platform": "x",
-      "full_url": "https://x.com/xCristian88",
-      "evidence_source": "https://x.com/blackbigswan/status/1940559211873599649",
       "verification_status": "community_verified",
       "date_identified": "2025-08-01"
     },
@@ -538,14 +498,6 @@
       "date_identified": "2025-08-01"
     },
     {
-      "handle": "nuricarneroroqu",
-      "platform": "x",
-      "full_url": "https://x.com/nuricarneroroqu",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
       "handle": "mrozek_ukasz",
       "platform": "x",
       "full_url": "https://x.com/mrozek_ukasz",
@@ -818,33 +770,9 @@
       "date_identified": "2025-08-01"
     },
     {
-      "handle": "tanyvaler",
-      "platform": "x",
-      "full_url": "https://x.com/tanyvaler",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "bobbyrossbostic",
-      "platform": "x",
-      "full_url": "https://x.com/bobbyrossbostic",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
       "handle": "trevorspencer",
       "platform": "x",
       "full_url": "https://x.com/trevorspencer",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "martinloetscher",
-      "platform": "x",
-      "full_url": "https://x.com/martinloetscher",
       "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
       "verification_status": "community_verified",
       "date_identified": "2025-08-01"
@@ -861,14 +789,6 @@
       "handle": "mattrobson",
       "platform": "x",
       "full_url": "https://x.com/mattrobson",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "nikolaiaamand",
-      "platform": "x",
-      "full_url": "https://x.com/nikolaiaamand",
       "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
       "verification_status": "community_verified",
       "date_identified": "2025-08-01"
@@ -898,30 +818,6 @@
       "date_identified": "2025-08-01"
     },
     {
-      "handle": "juhakieksi",
-      "platform": "x",
-      "full_url": "https://x.com/juhakieksi",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "madhavnepalga",
-      "platform": "x",
-      "full_url": "https://x.com/madhavnepalga",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "chbpereira",
-      "platform": "x",
-      "full_url": "https://x.com/chbpereira",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
       "handle": "prpanta",
       "platform": "x",
       "full_url": "https://x.com/prpanta",
@@ -930,33 +826,9 @@
       "date_identified": "2025-08-01"
     },
     {
-      "handle": "norbin2008",
-      "platform": "x",
-      "full_url": "https://x.com/norbin2008",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
       "handle": "kfabulgariaofficial",
       "platform": "x",
       "full_url": "https://x.com/kfabulgariaofficial",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "ioancampean",
-      "platform": "x",
-      "full_url": "https://x.com/ioancampean",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "sergeygribakov",
-      "platform": "x",
-      "full_url": "https://x.com/sergeygribakov",
       "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
       "verification_status": "community_verified",
       "date_identified": "2025-08-01"
@@ -978,57 +850,9 @@
       "date_identified": "2025-08-01"
     },
     {
-      "handle": "neliasancho",
-      "platform": "x",
-      "full_url": "https://x.com/neliasancho",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "partidopsr",
-      "platform": "x",
-      "full_url": "https://x.com/partidopsr",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "saispdj",
-      "platform": "x",
-      "full_url": "https://x.com/saispdj",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "lohekeleafrica",
-      "platform": "x",
-      "full_url": "https://x.com/lohekeleafrica",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "katycampos",
-      "platform": "x",
-      "full_url": "https://x.com/katycampos",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
       "handle": "grahamkelly101",
       "platform": "x",
       "full_url": "https://x.com/grahamkelly101",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "rasnzwlg",
-      "platform": "x",
-      "full_url": "https://x.com/rasnzwlg",
       "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
       "verification_status": "community_verified",
       "date_identified": "2025-08-01"
@@ -1042,41 +866,9 @@
       "date_identified": "2025-08-01"
     },
     {
-      "handle": "allanmilnes",
-      "platform": "x",
-      "full_url": "https://x.com/allanmilnes",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "billford37",
-      "platform": "x",
-      "full_url": "https://x.com/billford37",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "presidentacap",
-      "platform": "x",
-      "full_url": "https://x.com/presidentacap",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
       "handle": "sammylanden",
       "platform": "x",
       "full_url": "https://x.com/sammylanden",
-      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
-      "verification_status": "community_verified",
-      "date_identified": "2025-08-01"
-    },
-    {
-      "handle": "hiranyashrestha",
-      "platform": "x",
-      "full_url": "https://x.com/hiranyashrestha",
       "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
       "verification_status": "community_verified",
       "date_identified": "2025-08-01"
@@ -1138,14 +930,6 @@
       "date_identified": "2025-11-28"
     },
     {
-      "handle": "bullishgopher",
-      "platform": "x",
-      "full_url": "https://x.com/bullishgopher",
-      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
-      "verification_status": "community_verified",
-      "date_identified": "2025-11-28"
-    },
-    {
       "handle": "chaisomsri96",
       "platform": "x",
       "full_url": "https://x.com/chaisomsri96",
@@ -1157,14 +941,6 @@
       "handle": "CryptoFist",
       "platform": "x",
       "full_url": "https://x.com/CryptoFist",
-      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
-      "verification_status": "community_verified",
-      "date_identified": "2025-11-28"
-    },
-    {
-      "handle": "cryptopunkclan",
-      "platform": "x",
-      "full_url": "https://x.com/cryptopunkclan",
       "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
       "verification_status": "community_verified",
       "date_identified": "2025-11-28"
@@ -1202,25 +978,9 @@
       "date_identified": "2025-11-28"
     },
     {
-      "handle": "gru1125",
-      "platform": "x",
-      "full_url": "https://x.com/gru1125",
-      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
-      "verification_status": "community_verified",
-      "date_identified": "2025-11-28"
-    },
-    {
       "handle": "haodev007",
       "platform": "x",
       "full_url": "https://x.com/haodev007",
-      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
-      "verification_status": "community_verified",
-      "date_identified": "2025-11-28"
-    },
-    {
-      "handle": "hapetherw",
-      "platform": "x",
-      "full_url": "https://x.com/hapetherw",
       "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
       "verification_status": "community_verified",
       "date_identified": "2025-11-28"
@@ -1258,14 +1018,6 @@
       "date_identified": "2025-11-28"
     },
     {
-      "handle": "kn_amm51",
-      "platform": "x",
-      "full_url": "https://x.com/kn_amm51",
-      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
-      "verification_status": "community_verified",
-      "date_identified": "2025-11-28"
-    },
-    {
       "handle": "KoppAnatoli",
       "platform": "x",
       "full_url": "https://x.com/KoppAnatoli",
@@ -1290,14 +1042,6 @@
       "date_identified": "2025-11-28"
     },
     {
-      "handle": "MentholMen47387",
-      "platform": "x",
-      "full_url": "https://x.com/MentholMen47387",
-      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
-      "verification_status": "community_verified",
-      "date_identified": "2025-11-28"
-    },
-    {
       "handle": "mrcontract17877",
       "platform": "x",
       "full_url": "https://x.com/mrcontract17877",
@@ -1317,30 +1061,6 @@
       "handle": "PinnacleFTSO",
       "platform": "x",
       "full_url": "https://x.com/PinnacleFTSO",
-      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
-      "verification_status": "community_verified",
-      "date_identified": "2025-11-28"
-    },
-    {
-      "handle": "ponyjackalx",
-      "platform": "x",
-      "full_url": "https://x.com/ponyjackalx",
-      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
-      "verification_status": "community_verified",
-      "date_identified": "2025-11-28"
-    },
-    {
-      "handle": "sether1009",
-      "platform": "x",
-      "full_url": "https://x.com/sether1009",
-      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
-      "verification_status": "community_verified",
-      "date_identified": "2025-11-28"
-    },
-    {
-      "handle": "SilkenCore59010",
-      "platform": "x",
-      "full_url": "https://x.com/SilkenCore59010",
       "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
       "verification_status": "community_verified",
       "date_identified": "2025-11-28"
@@ -1386,14 +1106,6 @@
       "date_identified": "2025-11-28"
     },
     {
-      "handle": "norocos_cp",
-      "platform": "x",
-      "full_url": "https://x.com/norocos_cp",
-      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
-      "verification_status": "community_verified",
-      "date_identified": "2025-12-01"
-    },
-    {
       "handle": "SvenDotDev",
       "platform": "x",
       "full_url": "https://x.com/SvenDotDev",
@@ -1402,41 +1114,9 @@
       "date_identified": "2025-12-01"
     },
     {
-      "handle": "soladify",
-      "platform": "x",
-      "full_url": "https://x.com/soladify",
-      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
-      "verification_status": "community_verified",
-      "date_identified": "2025-12-01"
-    },
-    {
-      "handle": "0xMuse9",
-      "platform": "x",
-      "full_url": "https://x.com/0xMuse9",
-      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
-      "verification_status": "community_verified",
-      "date_identified": "2025-12-01"
-    },
-    {
       "handle": "hudes0112",
       "platform": "x",
       "full_url": "https://x.com/hudes0112",
-      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
-      "verification_status": "community_verified",
-      "date_identified": "2025-12-01"
-    },
-    {
-      "handle": "hyperbuildx",
-      "platform": "x",
-      "full_url": "https://x.com/hyperbuildx",
-      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
-      "verification_status": "community_verified",
-      "date_identified": "2025-12-01"
-    },
-    {
-      "handle": "0xopsdev",
-      "platform": "x",
-      "full_url": "https://x.com/0xopsdev",
       "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
       "verification_status": "community_verified",
       "date_identified": "2025-12-01"
@@ -1466,14 +1146,6 @@
       "date_identified": "2025-12-01"
     },
     {
-      "handle": "CryptoCookerDev",
-      "platform": "x",
-      "full_url": "https://x.com/CryptoCookerDev",
-      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
-      "verification_status": "community_verified",
-      "date_identified": "2025-12-01"
-    },
-    {
       "handle": "PaulYip33374",
       "platform": "x",
       "full_url": "https://x.com/PaulYip33374",
@@ -1498,14 +1170,6 @@
       "date_identified": "2025-12-01"
     },
     {
-      "handle": "goldborisdev",
-      "platform": "x",
-      "full_url": "https://x.com/goldborisdev",
-      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
-      "verification_status": "community_verified",
-      "date_identified": "2025-12-01"
-    },
-    {
       "handle": "borisanderson",
       "platform": "x",
       "full_url": "https://x.com/borisanderson",
@@ -1514,9 +1178,432 @@
       "date_identified": "2025-12-01"
     }
   ],
+  "archived_accounts": [
+    {
+      "handle": "steven228312",
+      "platform": "x",
+      "full_url": "https://x.com/steven228312",
+      "evidence_source": "https://x.com/browsercookies/status/1950686957748834390",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "OVB_Coder",
+      "platform": "x",
+      "full_url": "https://x.com/OVB_Coder",
+      "evidence_source": "https://x.com/aptwhatnow/status/1945225793761628641",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "0xTan1319",
+      "platform": "x",
+      "full_url": "https://x.com/0xTan1319",
+      "evidence_source": "https://x.com/browsercookies/status/1938123022650716257",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "0xNickLFranklin",
+      "platform": "x",
+      "full_url": "https://x.com/0xNickLFranklin",
+      "evidence_source": "https://x.com/tanuki42_/status/1905003045433290940",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "xCristian88",
+      "platform": "x",
+      "full_url": "https://x.com/xCristian88",
+      "evidence_source": "https://x.com/blackbigswan/status/1940559211873599649",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "nuricarneroroqu",
+      "platform": "x",
+      "full_url": "https://x.com/nuricarneroroqu",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "tanyvaler",
+      "platform": "x",
+      "full_url": "https://x.com/tanyvaler",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "bobbyrossbostic",
+      "platform": "x",
+      "full_url": "https://x.com/bobbyrossbostic",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "martinloetscher",
+      "platform": "x",
+      "full_url": "https://x.com/martinloetscher",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "nikolaiaamand",
+      "platform": "x",
+      "full_url": "https://x.com/nikolaiaamand",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "juhakieksi",
+      "platform": "x",
+      "full_url": "https://x.com/juhakieksi",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "madhavnepalga",
+      "platform": "x",
+      "full_url": "https://x.com/madhavnepalga",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "chbpereira",
+      "platform": "x",
+      "full_url": "https://x.com/chbpereira",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "norbin2008",
+      "platform": "x",
+      "full_url": "https://x.com/norbin2008",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "ioancampean",
+      "platform": "x",
+      "full_url": "https://x.com/ioancampean",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "sergeygribakov",
+      "platform": "x",
+      "full_url": "https://x.com/sergeygribakov",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "neliasancho",
+      "platform": "x",
+      "full_url": "https://x.com/neliasancho",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "partidopsr",
+      "platform": "x",
+      "full_url": "https://x.com/partidopsr",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "saispdj",
+      "platform": "x",
+      "full_url": "https://x.com/saispdj",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "lohekeleafrica",
+      "platform": "x",
+      "full_url": "https://x.com/lohekeleafrica",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "katycampos",
+      "platform": "x",
+      "full_url": "https://x.com/katycampos",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "suspended",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "rasnzwlg",
+      "platform": "x",
+      "full_url": "https://x.com/rasnzwlg",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "allanmilnes",
+      "platform": "x",
+      "full_url": "https://x.com/allanmilnes",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "billford37",
+      "platform": "x",
+      "full_url": "https://x.com/billford37",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "presidentacap",
+      "platform": "x",
+      "full_url": "https://x.com/presidentacap",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "hiranyashrestha",
+      "platform": "x",
+      "full_url": "https://x.com/hiranyashrestha",
+      "evidence_source": "https://pastebin.com/raw/P9YWPMRG",
+      "verification_status": "community_verified",
+      "date_identified": "2025-08-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "bullishgopher",
+      "platform": "x",
+      "full_url": "https://x.com/bullishgopher",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "cryptopunkclan",
+      "platform": "x",
+      "full_url": "https://x.com/cryptopunkclan",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "gru1125",
+      "platform": "x",
+      "full_url": "https://x.com/gru1125",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "hapetherw",
+      "platform": "x",
+      "full_url": "https://x.com/hapetherw",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "kn_amm51",
+      "platform": "x",
+      "full_url": "https://x.com/kn_amm51",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "MentholMen47387",
+      "platform": "x",
+      "full_url": "https://x.com/MentholMen47387",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "ponyjackalx",
+      "platform": "x",
+      "full_url": "https://x.com/ponyjackalx",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "sether1009",
+      "platform": "x",
+      "full_url": "https://x.com/sether1009",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "SilkenCore59010",
+      "platform": "x",
+      "full_url": "https://x.com/SilkenCore59010",
+      "evidence_source": "https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/dprk-it-workers/readme.md",
+      "verification_status": "community_verified",
+      "date_identified": "2025-11-28",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "norocos_cp",
+      "platform": "x",
+      "full_url": "https://x.com/norocos_cp",
+      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
+      "verification_status": "community_verified",
+      "date_identified": "2025-12-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "soladify",
+      "platform": "x",
+      "full_url": "https://x.com/soladify",
+      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
+      "verification_status": "community_verified",
+      "date_identified": "2025-12-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "0xMuse9",
+      "platform": "x",
+      "full_url": "https://x.com/0xMuse9",
+      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
+      "verification_status": "community_verified",
+      "date_identified": "2025-12-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "hyperbuildx",
+      "platform": "x",
+      "full_url": "https://x.com/hyperbuildx",
+      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
+      "verification_status": "community_verified",
+      "date_identified": "2025-12-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "0xopsdev",
+      "platform": "x",
+      "full_url": "https://x.com/0xopsdev",
+      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
+      "verification_status": "community_verified",
+      "date_identified": "2025-12-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "CryptoCookerDev",
+      "platform": "x",
+      "full_url": "https://x.com/CryptoCookerDev",
+      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
+      "verification_status": "community_verified",
+      "date_identified": "2025-12-01",
+      "inactive_reason": "suspended",
+      "inactive_as_of": "2026-11-03"
+    },
+    {
+      "handle": "goldborisdev",
+      "platform": "x",
+      "full_url": "https://x.com/goldborisdev",
+      "evidence_source": "https://github.com/Kawaii-Jong-UWUn/HyperBuildX-Continued-Research/blob/main/HyperBuildX%20%20Follow-up.canvas",
+      "verification_status": "community_verified",
+      "date_identified": "2025-12-01",
+      "inactive_reason": "not_found",
+      "inactive_as_of": "2026-11-03"
+    }
+  ],
   "statistics": {
-    "total_accounts": 186,
-    "unique_evidence_sources": 17,
+    "total_accounts": 144,
+    "archived_accounts": 42,
+    "unique_evidence_sources": 18,
     "platforms_covered": [
       "x"
     ],
